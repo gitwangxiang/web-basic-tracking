@@ -22,3 +22,6 @@
 [submodule "LiYu"]
 	path = LiYu
 	url = git@github.com:Evan-Leee/web-basic.git
+[submodule "WangXutong"]
+	path = WangXutong
+	url = git@github.com:Lucky-LengYi/web-basic.git
