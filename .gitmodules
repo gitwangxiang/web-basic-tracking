@@ -1,0 +1,24 @@
+[submodule "ShiCaiqiang"]
+	path = ShiCaiqiang
+	url = git@github.com:scq000/web-basic.git
+[submodule "ZhaoShaoyi"]
+	path = ZhaoShaoyi
+	url = git@github.com:simpletrain/web-basic.git
+[submodule "WangFengzhu"]
+	path = WangFengzhu
+	url = git@github.com:carolineF/web-basic.git
+[submodule "WangXiaolong"]
+	path = WangXiaolong
+	url = git@github.com:XiaoLongW/web-basic.git
+[submodule "LiYa"]
+	path = LiYa
+	url = git@github.com:aositelici/web-basic.git
+[submodule "LiYuanyuan"]
+	path = LiYuanyuan
+	url = git@github.com:liyuanyuan57/web-basic.git
+[submodule "ZhouYixing"]
+	path = ZhouYixing
+	url = git@github.com:sialvsic/web-basic.git
+[submodule "LiYu"]
+	path = LiYu
+	url = git@github.com:Evan-Leee/web-basic.git
