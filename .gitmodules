@@ -13,9 +13,6 @@
 [submodule "LiYa"]
 	path = LiYa
 	url = git@github.com:aositelici/web-basic.git
-[submodule "LiYuanyuan"]
-	path = LiYuanyuan
-	url = git@github.com:liyuanyuan57/web-basic.git
 [submodule "ZhouYixing"]
 	path = ZhouYixing
 	url = git@github.com:sialvsic/web-basic.git
